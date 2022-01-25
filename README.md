@@ -55,3 +55,7 @@ var picoDetector = setInterval(function(){
 ```
 
 This does cause a slight delay in Pico initialization when a user is looking at the page, but hey, nothing's perfect. The PSI improvements should be worth it.
+
+## License
+
+This is podcastware. It'd be cool if you checked out the [latest episode of Under One Thousand](https://open.spotify.com/episode/1QbZEu5H4QGFkvualpYGM8) and left an honest review, but you don't have to. Just don't use it for evil.
