@@ -1,7 +1,7 @@
 /*
 by Sam LeBlanc 
 https://github.com/scleblanc/
-https://saml.codes/ (Haven't updated in forever.)
+https://saml.codes/
 This is podcastware. Check out the latest episode of Under One Thousand and leave an honest review. Or not.
 Be a lot cooler if you did, though: 
 https://open.spotify.com/show/3sEBxLmQvXrF2FOtGJnroY
