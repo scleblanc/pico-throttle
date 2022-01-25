@@ -58,4 +58,4 @@ This does cause a slight delay in Pico initialization when a user is looking at 
 
 ## License
 
-This is podcastware. It'd be cool if you checked out the [latest episode of Under One Thousand](https://open.spotify.com/episode/1QbZEu5H4QGFkvualpYGM8) and left an honest review, but you don't have to. Just don't use it for evil.
+This is podcastware. It'd be cool if you checked out the [latest episode of Under One Thousand](https://open.spotify.com/episode/1QbZEu5H4QGFkvualpYGM8) and left an honest review, but you don't have to. Just don't use it for evil. And don't remove the comment attribution in the code.
